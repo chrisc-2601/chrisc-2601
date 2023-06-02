@@ -1,4 +1,4 @@
-- Hi, I’m @chrisc-2601 (Also known as Chris Cigana!)
+- Hi, I’m @chrisc-2601
 
 - I’m interested in using the github space to showcase the work i have done in the Cyber Security & Digital Forensics space- primarily built during my studies.
 
