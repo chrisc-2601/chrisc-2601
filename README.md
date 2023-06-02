@@ -7,7 +7,7 @@
 - Hopefully you can access my content and use it yourself in your own cybersec journey. Please feel free to comment and provide feedback and guidance.
 
 - Contacting me:
-    - [christopher.cigana@gmail.com]
+    -
     - [discord.gg/Y6RxMQRX]
     - [linkedin.com/in/chris-cigana-2737821a9/]
     - [33`59'42" 150`57'06"]
